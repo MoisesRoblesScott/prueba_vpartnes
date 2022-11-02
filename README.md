@@ -1,10 +1,13 @@
 Dentro del archivo comprimido se encuentran dos carpetas y un archivo SQL que es la base de datos.
 
 1) Carpeta Front:
-Para la ejecución del proyecto es necesario, primero abrir una ventana terminal y ubicarse en la raíz del proyecto y ejecutar el comando composer update. 
-La prueba frontend se realizó utilizando el framework laravel, jquery y bootstrap. Pude a ver utilizado el framework JavaScript vue js ya que ese es mi fuerte y el que más utilizo, pero decidí utilizar jquery por la simplicidad de la prueba y poder realizarla en el menor tiempo posible.
+
+Para la ejecución del proyecto es necesario, primero abrir una ventana terminal y ubicarse en la raíz del proyecto y ejecutar el comando *composer update*
+
+La prueba frontend se realizó utilizando el framework laravel, jquery y bootstrap. Pude a ver utilizado el framework de JavaScript vue js ya que ese es mi fuerte y el que más utilizo, pero decidí utilizar jquery por la simplicidad de la prueba y poder realizarla en el menor tiempo posible.
 
 2) Carpeta BackEnd:
+
 Aquí encontrara las Apis Rest que se solicitaron en la prueba, se utilizo MVC, lenguaje de programacion PHP con framework laravel.
 
 Para la ejecución del proyecto es necesario, primero abrir una ventana terminal y ubicarse en la raíz del proyecto y ejecutar el comando *composer update* 
