@@ -38,4 +38,5 @@ parámetros para la creación: nombre_usuario y estado
  Las pruebas de las apis se realizaron con el programa postman.
  
 para revisar la logica desarrollada, se encuentra en el controlador en la siguiente ruta del proyecto. \app\Http\Controllers\ApisController.php
+
 el archivo de rutas se encuentra en \routes\api.php
